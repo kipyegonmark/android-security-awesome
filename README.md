@@ -14,6 +14,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 * [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
+* [Appknox](https://appknox.com) - not free
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 * [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
@@ -21,6 +22,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](https://www.app-ray.com) - not free
+* [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments. 
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
@@ -54,8 +56,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## APP VULNERABILITY SCANNERS
 
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
-3. [Nogotofail](https://github.com/google/nogotofail)
+* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+* [Nogotofail](https://github.com/google/nogotofail)
+* [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
+* [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
 ## DYNAMIC ANALYSIS TOOLS
 
@@ -65,15 +69,16 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Mobile-Security-Framework MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 * [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
-* [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/10/introducing-vialab-community-edition/)
+* [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
 * [Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 * [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+* [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 * [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
 * [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
-* [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
+* [DECAF](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 * [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 * [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 * [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
@@ -87,6 +92,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 * [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 * [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
+* [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
 * ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
 
 ## REVERSE ENGINEERING
